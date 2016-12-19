@@ -1,1 +1,1 @@
-Simple program that graphically displays weather data 
+Simple program that graphically displays weather data. 
